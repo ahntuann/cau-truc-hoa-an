@@ -47,21 +47,19 @@ export default async function LienHe() {
                       <div className="itemBody">
                         <div className="itemFullText">
                           <div className="ttlh">
-                            <h4>CẦU TRỤC THANG MÁY HOA LONG</h4>
+                            <h4>CẦU TRỤC THANG MÁY HOÀ AN</h4>
                             <div>
                               <strong>Địa chỉ :</strong> 78/18/8 Bùi Thị Cội, KP
                               Đông An, P. Tân Đông Hiệp, TP Dĩ An, Bình Dương
                             </div>
                             <div>
                               <strong>Hotline :&nbsp;</strong>
-                              <a href="tel:0907558123">
-                                090 7558123 - 0357 803 760
-                              </a>
+                              <a href="tel:0907558123">0903152530</a>
                             </div>
                             <div>
                               <strong>Email :&nbsp;</strong>
-                              <a href="mailto:hoalongcrane@gmail.com">
-                                hoalongcrane@gmail.com
+                              <a href="mailto:hoaancty@yahoo.com.vn">
+                                hoaancty@yahoo.com.vn
                               </a>
                             </div>
                             <p style={{ marginBottom: 10 }}>

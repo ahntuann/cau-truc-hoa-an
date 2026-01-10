@@ -12,8 +12,8 @@ function Header() {
                       <tbody>
                         <tr>
                           <td>
-                            <i className="fa fa-volume-control-phone" /> 090
-                            7558123
+                            <i className="fa fa-volume-control-phone" />{" "}
+                            0903152530
                           </td>
                           <td>
                             <i className="fa fa-map-marker" /> 78/18/8 Bùi Thị

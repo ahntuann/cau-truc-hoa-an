@@ -27,13 +27,13 @@ function Lienhe() {
                   <li className="hotline_float_icon_1">
                     <a
                       id="messengerButton"
-                      href="tel:0357803760"
+                      href="tel:0903152530"
                       rel="nofollow"
                     >
                       <i className="fa icon-phone animated infinite tada" />
                     </a>
                   </li>
-                  <li className="hotline_float_icon">
+                  {/* <li className="hotline_float_icon">
                     <a
                       id="messengerButton"
                       href="tel:0907558123"
@@ -41,11 +41,11 @@ function Lienhe() {
                     >
                       <i className="fa icon-phone animated infinite tada" />
                     </a>
-                  </li>
+                  </li> */}
                   <li className="hotline_float_icon">
                     <a
                       id="messengerButton"
-                      href="http://zalo.me/0907558123"
+                      href="http://zalo.me/0903152530"
                       rel="nofollow"
                     >
                       <i className="fa fa-zalo animated infinite tada" />
@@ -71,7 +71,7 @@ function Lienhe() {
           <div className="workshome-content">
             <div className="custom">
               <div className="fonefix">
-                <a href="tel:0907558123">
+                <a href="tel:0903152530">
                   <i className="fa fa-phone-square" aria-hidden="true" />
                   Click gọi ngay - Cam kết giá rẻ nhất!
                 </a>

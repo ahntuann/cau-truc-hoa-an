@@ -6,7 +6,7 @@ function Footer() {
           <div className="ja-workshome" id="Mod420">
             <div className="workshome-title">
               <h2>
-                <span>CẦU TRỤC THANG MÁY HOA LONG</span>
+                <span>CẦU TRỤC HOÀ AN</span>
               </h2>
             </div>
             <div className="workshome-content">
@@ -65,9 +65,7 @@ function Footer() {
                               Điện thoại hỗ trợ
                             </h3>
                             <p style={{ textAlign: "center" }}>
-                              <a href="tel:0907558123">
-                                090 7558123 - 0357 803 760 (Mr. Trương Chí Linh)
-                              </a>
+                              <a href="tel:0907558123">0903152530 (Mrs. Thư)</a>
                             </p>
                             <p style={{ textAlign: "center" }}>
                               <a href="index.html">
@@ -99,7 +97,7 @@ function Footer() {
                           <div className="box-text-inner">
                             <h3 style={{ textAlign: "center" }}>E-mail</h3>
                             <p style={{ textAlign: "center" }}>
-                              hoalongcrane@gmail.com
+                              hoaancty@yahoo.com.vn
                             </p>
                           </div>
                         </div>

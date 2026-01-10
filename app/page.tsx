@@ -189,18 +189,18 @@ export default function Home() {
                                   textAlign: "left",
                                 }}
                               >
-                                Mr. Linh:
+                                Mrs. Thư:
                               </td>
                               <td style={{ width: "212.386px", height: 18 }}>
                                 <ul>
                                   <li>
-                                    <a href="http://zalo.me/0907558123">
-                                      090 7558123
+                                    <a href="http://zalo.me/0903152530">
+                                      0903152530
                                     </a>
                                   </li>
                                   <li>
-                                    <a href="mailto:hoalongcrane@gmail.com">
-                                      hoalongcrane@gmail.com
+                                    <a href="mailto:hoaancty@yahoo.com.vn">
+                                      hoaancty@yahoo.com.vn
                                     </a>
                                   </li>
                                 </ul>

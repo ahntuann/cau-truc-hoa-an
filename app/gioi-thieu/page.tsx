@@ -84,7 +84,7 @@ function GioiThieu() {
                                 }}
                               >
                                 <span style={{ boxSizing: "border-box" }}>
-                                  CÔNG TY Cầu Trục Thang Máy Hoa Long&nbsp;
+                                  CÔNG TY Cầu Trục Hoà An&nbsp;
                                 </span>
                               </span>
                               <span
@@ -163,7 +163,7 @@ function GioiThieu() {
                                 </span>
                               </p>
                               <h4 style={{ fontSize: 14, textAlign: "center" }}>
-                                CẦU TRỤC THANG MÁY HOA LONG
+                                CẦU TRỤC THANG MÁY HOÀ AN
                               </h4>
                               <div style={{ textAlign: "center" }}>
                                 <span style={{ fontSize: "110%" }}>
@@ -175,14 +175,14 @@ function GioiThieu() {
                               <div style={{ textAlign: "center" }}>
                                 <span style={{ fontSize: "110%" }}>
                                   <strong>Hotline :&nbsp;</strong>
-                                  <a href="tel:0907558123">090 7558123</a>
+                                  <a href="tel:0903152530">0903152530</a>
                                 </span>
                               </div>
                               <div style={{ textAlign: "center" }}>
                                 <span style={{ fontSize: "110%" }}>
                                   <strong>Email :&nbsp;</strong>
-                                  <a href="mailto:hoalongcrane@gmail.com">
-                                    hoalongcrane@gmail.com
+                                  <a href="mailto:hoaancty@yahoo.com.vn">
+                                    hoaancty@yahoo.com.vn
                                   </a>
                                 </span>
                               </div>
