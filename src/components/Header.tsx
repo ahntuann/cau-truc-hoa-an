@@ -48,7 +48,7 @@ function Header() {
                 <div className="custom">
                   <p>
                     <img
-                      src="/images/23.jpg"
+                      src="/images/logo.jpeg"
                       alt="23.jpg"
                       width={277}
                       height={186}
