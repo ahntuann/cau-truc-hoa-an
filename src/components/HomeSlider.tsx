@@ -16,11 +16,11 @@ export default function HomeSlider() {
       className="w-full"
     >
       <SwiperSlide>
-        <img src="/images/hl.jpg" className="w-full" />
+        <img src="/images/slider1.jpeg" className="w-full" />
       </SwiperSlide>
 
       <SwiperSlide>
-        <img src="/images/slideshow/hl3.jpg" className="w-full" />
+        <img src="/images/slider2.jpeg" className="w-full" />
       </SwiperSlide>
     </Swiper>
   );
