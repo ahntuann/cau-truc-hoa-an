@@ -202,6 +202,27 @@ export default function Home() {
                               <td style={{ width: "212.386px", height: 18 }}>
                                 <ul>
                                   <li>
+                                    <a href="http://zalo.me/0908504207">
+                                      0908504207
+                                    </a>
+                                  </li>
+                                </ul>
+                              </td>
+                            </tr>
+
+                            <tr style={{ height: 18 }}>
+                              <td
+                                style={{
+                                  width: "87.8409px",
+                                  height: 18,
+                                  textAlign: "left",
+                                }}
+                              >
+                                Mr. Linh:
+                              </td>
+                              <td style={{ width: "212.386px", height: 18 }}>
+                                <ul>
+                                  <li>
                                     <a href="http://zalo.me/0903152530">
                                       0903152530
                                     </a>
@@ -238,14 +259,14 @@ export default function Home() {
                             <div className="nivo-gallery-block">
                               <a
                                 className="nivo-gallery-spacer"
-                                href="images/dt/78.png"
+                                href="images/dt/78.jpeg"
                                 data-fancybox="nivo-gallery-355"
-                                data-thumb="images/dt/78.png"
+                                data-thumb="images/dt/78.jpeg"
                               >
                                 <img
                                   className="nivo-gallery-img"
                                   data-parent="nivo-gallery355"
-                                  src="images/dt/78.png"
+                                  src="images/dt/78.jpeg"
                                   // alt={78}
                                 />
                               </a>
@@ -253,14 +274,14 @@ export default function Home() {
                             <div className="nivo-gallery-block">
                               <a
                                 className="nivo-gallery-spacer"
-                                href="images/dt/logo-toyota-inkythuatso-3-01-11-15-03-22.jpg"
+                                href="images/dt/79.jpeg"
                                 data-fancybox="nivo-gallery-355"
-                                data-thumb="images/dt/logo-toyota-inkythuatso-3-01-11-15-03-22.jpg"
+                                data-thumb="ima/79.jpeg"
                               >
                                 <img
                                   className="nivo-gallery-img"
                                   data-parent="nivo-gallery355"
-                                  src="images/dt/logo-toyota-inkythuatso-3-01-11-15-03-22.jpg"
+                                  src="images/dt//79.jpeg"
                                   alt="logo-toyota-inkythuatso-3-01-11-15-03-22"
                                 />
                               </a>
@@ -268,14 +289,14 @@ export default function Home() {
                             <div className="nivo-gallery-block">
                               <a
                                 className="nivo-gallery-spacer"
-                                href="images/dt/demag-logo-for-terex-cranes.jpg"
+                                href="images/dt/80.jpeg"
                                 data-fancybox="nivo-gallery-355"
-                                data-thumb="images/dt/demag-logo-for-terex-cranes.jpg"
+                                data-thumb="images/dt/80.jpeg"
                               >
                                 <img
                                   className="nivo-gallery-img"
                                   data-parent="nivo-gallery355"
-                                  src="images/dt/demag-logo-for-terex-cranes.jpg"
+                                  src="images/dt/80.jpeg"
                                   alt="demag-logo-for-terex-cranes"
                                 />
                               </a>
@@ -283,14 +304,14 @@ export default function Home() {
                             <div className="nivo-gallery-block">
                               <a
                                 className="nivo-gallery-spacer"
-                                href="images/dt/hitachi.jpg"
+                                href="images/dt/81.jpeg"
                                 data-fancybox="nivo-gallery-355"
-                                data-thumb="images/dt/hitachi.jpg"
+                                data-thumb="images/dt/81.jpeg"
                               >
                                 <img
                                   className="nivo-gallery-img"
                                   data-parent="nivo-gallery355"
-                                  src="images/dt/hitachi.jpg"
+                                  src="images/dt/81.jpeg"
                                   alt="hitachi"
                                 />
                               </a>
@@ -298,14 +319,14 @@ export default function Home() {
                             <div className="nivo-gallery-block">
                               <a
                                 className="nivo-gallery-spacer"
-                                href="images/dt/kg.jpg"
+                                href="images/dt/82.jpeg"
                                 data-fancybox="nivo-gallery-355"
-                                data-thumb="images/dt/kg.jpg"
+                                data-thumb="images/dt/82.jpeg"
                               >
                                 <img
                                   className="nivo-gallery-img"
                                   data-parent="nivo-gallery355"
-                                  src="images/dt/kg.jpg"
+                                  src="images/dt/82.jpeg"
                                   alt="kg"
                                 />
                               </a>

@@ -35,8 +35,8 @@ function Footer() {
                           <div className="box-text-inner">
                             <h3 style={{ textAlign: "center" }}>Địa chỉ</h3>
                             <p style={{ textAlign: "center" }}>
-                              VPGD: 78/18/8 Bùi Thị Cội, KP Đông An, P. Tân Đông
-                              Hiệp, TP Dĩ An, Bình Dương
+                              Thửa đất 1271, Đường Khánh Bình 02, Khu phố Khánh
+                              Tân, Phường Tân Hiệp, TP Hồ Chí Minh
                             </p>
                           </div>
                         </div>
@@ -65,7 +65,7 @@ function Footer() {
                               Điện thoại hỗ trợ
                             </h3>
                             <p style={{ textAlign: "center" }}>
-                              <a href="tel:0907558123">0903152530 (Mrs. Thư)</a>
+                              <a href="tel:0908504207">0908504207 (Mrs. Thư)</a>
                             </p>
                             <p style={{ textAlign: "center" }}>
                               <a href="index.html">
@@ -122,14 +122,14 @@ function Footer() {
               <div className="workshome-content">
                 <div className="custom">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3917.6426031191795!2d106.7773103098399!3d10.914742756583893!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174d9b81f8307f5%3A0xa757b10dd87f68c!2zNzgvMTgvMjggQsO5aSBUaOG7iyBD4buZaSwgVMOibiDEkMO0bmcgSGnhu4dwLCBExKkgQW4sIELDrG5oIETGsMahbmcsIFZpZXRuYW0!5e0!3m2!1sen!2sus!4v1713775873265!5m2!1sen!2sus"
-                    width="100%"
-                    height={250}
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.192547476838!2d106.74946917529053!3d11.024175689140048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174daeca7277473%3A0x975b04343b281fee!2zxJAuIEtow6FuaCBCw6xuaCAwMiwgS2jDoW5oIELDrG5oLCBUw6JuIEhp4buHcCwgSOG7kyBDaMOtIE1pbmgsIFZpZXRuYW0!5e0!3m2!1sen!2sus!4v1774535707856!5m2!1sen!2sus"
+                    width={600}
+                    height={270}
                     style={{ border: 0 }}
-                    // allowFullScreen=""
+                    allowFullScreen
                     loading="lazy"
                     referrerPolicy="no-referrer-when-downgrade"
-                  />
+                  ></iframe>
                 </div>
               </div>
             </div>
@@ -149,14 +149,14 @@ function Footer() {
                       <div className="nivo-gallery-block">
                         <a
                           className="nivo-gallery-spacer"
-                          href="images/slideshow/cach-su-dubg-cau-truc-an-toan-3-1.jpg"
+                          href="images/slideshow/1.jpeg"
                           data-fancybox="nivo-gallery-421"
-                          data-thumb="images/slideshow/cach-su-dubg-cau-truc-an-toan-3-1.jpg"
+                          data-thumb="images/slideshow/1.jpeg"
                         >
                           <img
                             className="nivo-gallery-img"
                             data-parent="nivo-gallery421"
-                            src="/images/slideshow/cach-su-dubg-cau-truc-an-toan-3-1.jpg"
+                            src="/images/slideshow/1.jpeg"
                             alt="cach-su-dubg-cau-truc-an-toan-3-1"
                           />
                         </a>
@@ -164,14 +164,14 @@ function Footer() {
                       <div className="nivo-gallery-block">
                         <a
                           className="nivo-gallery-spacer"
-                          href="images/slideshow/cau-truc-dam-doi-kieu-au-1.jpg"
+                          href="images/slideshow/2.jpeg"
                           data-fancybox="nivo-gallery-421"
-                          data-thumb="images/slideshow/cau-truc-dam-doi-kieu-au-1.jpg"
+                          data-thumb="images/slideshow/2.jpeg"
                         >
                           <img
                             className="nivo-gallery-img"
                             data-parent="nivo-gallery421"
-                            src="/images/slideshow/cau-truc-dam-doi-kieu-au-1.jpg"
+                            src="/images/slideshow/2.jpeg"
                             alt="cau-truc-dam-doi-kieu-au-1"
                           />
                         </a>
@@ -179,14 +179,14 @@ function Footer() {
                       <div className="nivo-gallery-block">
                         <a
                           className="nivo-gallery-spacer"
-                          href="images/slideshow/cau-truc-treo-10-tan.gif"
+                          href="images/slideshow/3.jpeg"
                           data-fancybox="nivo-gallery-421"
-                          data-thumb="images/slideshow/cau-truc-treo-10-tan.gif"
+                          data-thumb="images/slideshow/3.jpeg"
                         >
                           <img
                             className="nivo-gallery-img"
                             data-parent="nivo-gallery421"
-                            src="/images/slideshow/cau-truc-treo-10-tan.gif"
+                            src="/images/slideshow/3.jpeg"
                             alt="cau-truc-treo-10-tan"
                           />
                         </a>
@@ -194,14 +194,14 @@ function Footer() {
                       <div className="nivo-gallery-block">
                         <a
                           className="nivo-gallery-spacer"
-                          href="images/slideshow/cong-truc-cmi1.jpg"
+                          href="images/slideshow/4.jpeg"
                           data-fancybox="nivo-gallery-421"
-                          data-thumb="images/slideshow/cong-truc-cmi1.jpg"
+                          data-thumb="images/slideshow/4.jpeg"
                         >
                           <img
                             className="nivo-gallery-img"
                             data-parent="nivo-gallery421"
-                            src="/images/slideshow/cong-truc-cmi1.jpg"
+                            src="/images/slideshow/4.jpeg"
                             alt="cong-truc-cmi1"
                           />
                         </a>
@@ -212,14 +212,14 @@ function Footer() {
                       <div className="nivo-gallery-block">
                         <a
                           className="nivo-gallery-spacer"
-                          href="images/slideshow/dac-diem-cau-ato-chuc-nang-cua-cau-truc-quay-1-tan-uu-diem-cua-thiet-bi-nay-1.jpg"
+                          href="images/slideshow/5.jpeg"
                           data-fancybox="nivo-gallery-421"
-                          data-thumb="images/slideshow/dac-diem-cau-ato-chuc-nang-cua-cau-truc-quay-1-tan-uu-diem-cua-thiet-bi-nay-1.jpg"
+                          data-thumb="images/slideshow/5.jpeg"
                         >
                           <img
                             className="nivo-gallery-img"
                             data-parent="nivo-gallery421"
-                            src="/images/slideshow/dac-diem-cau-ato-chuc-nang-cua-cau-truc-quay-1-tan-uu-diem-cua-thiet-bi-nay-1.jpg"
+                            src="/images/slideshow/5.jpeg"
                             alt="dac-diem-cau-ato-chuc-nang-cua-cau-truc-quay-1-tan-uu-diem-cua-thiet-bi-nay-1"
                           />
                         </a>
@@ -227,14 +227,14 @@ function Footer() {
                       <div className="nivo-gallery-block">
                         <a
                           className="nivo-gallery-spacer"
-                          href="images/slideshow/cau-truc-dam-doi-kieu-au-1.jpg"
+                          href="images/slideshow/6.jpeg"
                           data-fancybox="nivo-gallery-421"
-                          data-thumb="images/slideshow/cau-truc-dam-doi-kieu-au-1.jpg"
+                          data-thumb="images/slideshow/6.jpeg"
                         >
                           <img
                             className="nivo-gallery-img"
                             data-parent="nivo-gallery421"
-                            src="/images/slideshow/cau-truc-dam-doi-kieu-au-1.jpg"
+                            src="/images/slideshow/6.jpeg"
                             alt="cau-truc-dam-doi-kieu-au-1"
                           />
                         </a>
@@ -242,14 +242,14 @@ function Footer() {
                       <div className="nivo-gallery-block">
                         <a
                           className="nivo-gallery-spacer"
-                          href="images/slideshow/monorail-2-tan-2.jpg"
+                          href="images/slideshow/7.jpeg"
                           data-fancybox="nivo-gallery-421"
-                          data-thumb="images/slideshow/monorail-2-tan-2.jpg"
+                          data-thumb="images/slideshow/7.jpeg"
                         >
                           <img
                             className="nivo-gallery-img"
                             data-parent="nivo-gallery421"
-                            src="/images/slideshow/monorail-2-tan-2.jpg"
+                            src="/images/slideshow/7.jpeg"
                             alt="monorail-2-tan-2"
                           />
                         </a>
@@ -257,14 +257,14 @@ function Footer() {
                       <div className="nivo-gallery-block">
                         <a
                           className="nivo-gallery-spacer"
-                          href="images/slideshow/01dd16db3537f269ab26.jpg"
+                          href="images/slideshow/8.jpeg"
                           data-fancybox="nivo-gallery-421"
-                          data-thumb="images/slideshow/01dd16db3537f269ab26.jpg"
+                          data-thumb="images/slideshow/8.jpeg"
                         >
                           <img
                             className="nivo-gallery-img"
                             data-parent="nivo-gallery421"
-                            src="/images/slideshow/01dd16db3537f269ab26.jpg"
+                            src="/images/slideshow/8.jpeg"
                             alt="01dd16db3537f269ab26"
                           />
                         </a>

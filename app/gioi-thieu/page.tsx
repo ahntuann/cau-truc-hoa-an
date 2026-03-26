@@ -151,9 +151,9 @@ export default async function GioiThieu() {
                             </h4>
                             <div style={{ textAlign: "center" }}>
                               <span style={{ fontSize: "110%" }}>
-                                <strong>Địa chỉ :</strong>&nbsp;78/18/8 Bùi Thị
-                                Cội, KP Đông An, P. Tân Đông Hiệp, TP Dĩ An,
-                                Bình Dương
+                                <strong>Địa chỉ :</strong>&nbsp;Thửa đất 1271,
+                                Đường Khánh Bình 02, Khu phố Khánh Tân, Phường
+                                Tân Hiệp, TP Hồ Chí Minh
                               </span>
                             </div>
                             <div style={{ textAlign: "center" }}>

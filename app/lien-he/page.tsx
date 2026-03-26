@@ -49,9 +49,11 @@ export default async function LienHe() {
                           <div className="ttlh">
                             <h4>CẦU TRỤC THANG MÁY HOÀ AN</h4>
                             <div>
-                              <strong>Địa chỉ :</strong> 78/18/8 Bùi Thị Cội, KP
-                              Đông An, P. Tân Đông Hiệp, TP Dĩ An, Bình Dương
+                              <strong>Địa chỉ :</strong> Thửa đất 1271, Đường
+                              Khánh Bình 02, Khu phố Khánh Tân, Phường Tân Hiệp,
+                              TP Hồ Chí Minh
                             </div>
+                            <div></div>
                             <div>
                               <strong>Hotline :&nbsp;</strong>
                               <a href="tel:0907558123">0903152530</a>
@@ -69,14 +71,14 @@ export default async function LienHe() {
                               </a>
                             </p>
                             <iframe
-                              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d5659.047119220756!2d105.80122339155419!3d21.02251790802843!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3135ab5d5161f909%3A0x4dafaf500ce22be3!2zVHLGsOG7nW5nIMSQ4bqhaSBo4buNYyBOZ2_huqFpIHRoxrDGoW5n!5e0!3m2!1svi!2s!4v1767754587004!5m2!1svi!2s"
+                              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3916.192547476838!2d106.74946917529053!3d11.024175689140048!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3174daeca7277473%3A0x975b04343b281fee!2zxJAuIEtow6FuaCBCw6xuaCAwMiwgS2jDoW5oIELDrG5oLCBUw6JuIEhp4buHcCwgSOG7kyBDaMOtIE1pbmgsIFZpZXRuYW0!5e0!3m2!1sen!2sus!4v1774535707856!5m2!1sen!2sus"
                               width={600}
                               height={450}
                               style={{ border: 0 }}
                               allowFullScreen
                               loading="lazy"
                               referrerPolicy="no-referrer-when-downgrade"
-                            />
+                            ></iframe>
                           </div>
                           <div className="formlh">
                             <p> </p>
