@@ -51,7 +51,7 @@ export default async function LienHe() {
                             <div>
                               <strong>Địa chỉ :</strong> Thửa đất 1271, Đường
                               Khánh Bình 02, Khu phố Khánh Tân, Phường Tân Hiệp,
-                              TP Hồ Chí Minh
+                              TP Hồ Chí Minh (Bình Dương cũ)
                             </div>
                             <div></div>
                             <div>

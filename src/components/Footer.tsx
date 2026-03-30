@@ -36,7 +36,8 @@ function Footer() {
                             <h3 style={{ textAlign: "center" }}>Địa chỉ</h3>
                             <p style={{ textAlign: "center" }}>
                               Thửa đất 1271, Đường Khánh Bình 02, Khu phố Khánh
-                              Tân, Phường Tân Hiệp, TP Hồ Chí Minh
+                              Tân, Phường Tân Hiệp, TP Hồ Chí Minh (Bình Dương
+                              cũ)
                             </p>
                           </div>
                         </div>
@@ -65,7 +66,7 @@ function Footer() {
                               Điện thoại hỗ trợ
                             </h3>
                             <p style={{ textAlign: "center" }}>
-                              <a href="tel:0908504207">0908504207 (Mrs. Thư)</a>
+                              <a href="tel:0908504207">0908504207 (Ms. Thư)</a>
                             </p>
                             <p style={{ textAlign: "center" }}>
                               <a href="index.html">

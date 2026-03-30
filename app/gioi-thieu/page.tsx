@@ -153,7 +153,7 @@ export default async function GioiThieu() {
                               <span style={{ fontSize: "110%" }}>
                                 <strong>Địa chỉ :</strong>&nbsp;Thửa đất 1271,
                                 Đường Khánh Bình 02, Khu phố Khánh Tân, Phường
-                                Tân Hiệp, TP Hồ Chí Minh
+                                Tân Hiệp, TP Hồ Chí Minh (Bình Dương cũ)
                               </span>
                             </div>
                             <div style={{ textAlign: "center" }}>

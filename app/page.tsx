@@ -197,7 +197,7 @@ export default function Home() {
                                   textAlign: "left",
                                 }}
                               >
-                                Mrs. Thư:
+                                Ms. Thư:
                               </td>
                               <td style={{ width: "212.386px", height: 18 }}>
                                 <ul>

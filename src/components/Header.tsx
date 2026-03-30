@@ -30,9 +30,9 @@ export default async function Header() {
                             0903152530
                           </td>
                           <td>
-                            <i className="fa fa-map-marker" /> 78/18/8 Bùi Thị
-                            Cội, KP Đông An, P. Tân Đông Hiệp, TP Dĩ An, Bình
-                            Dương
+                            <i className="fa fa-map-marker" /> Thửa đất 1271,
+                            Đường Khánh Bình 02, Khu phố Khánh Tân, Phường Tân
+                            Hiệp, TP Hồ Chí Minh (Bình Dương cũ)
                           </td>
                         </tr>
                       </tbody>
