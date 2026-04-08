@@ -69,9 +69,7 @@ function Footer() {
                               <a href="tel:0908504207">0908504207 (Ms. Thư)</a>
                             </p>
                             <p style={{ textAlign: "center" }}>
-                              <a href="index.html">
-                                www.cautructhangmayhoalong.com
-                              </a>
+                              <a href="index.html">www.cautruchoaan.com</a>
                             </p>
                           </div>
                         </div>

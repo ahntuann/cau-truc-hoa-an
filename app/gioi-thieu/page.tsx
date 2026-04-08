@@ -196,7 +196,7 @@ export default async function GioiThieu() {
                                     fontSize: 14,
                                   }}
                                 >
-                                  www.cautructhangmayhoalong.com
+                                  www.cautruchoaan.com
                                 </a>
                               </span>
                             </p>

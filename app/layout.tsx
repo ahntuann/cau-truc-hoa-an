@@ -4,7 +4,7 @@ import Script from "next/script";
 
 // 1. Setup Meta data (SEO)
 export const metadata: Metadata = {
-  title: "Trang chủ - cautructhangmayhoalong.com",
+  title: "Trang chủ - cautruchoaan.com",
   description:
     "Công ty hàng đầu chuyên cung cấp các sản phẩm, dịch vụ chất lượng nhất...",
 };

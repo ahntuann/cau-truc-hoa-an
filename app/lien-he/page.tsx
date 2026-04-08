@@ -67,7 +67,7 @@ export default async function LienHe() {
                             <p style={{ marginBottom: 10 }}>
                               <strong>Website :&nbsp;</strong>
                               <a href="www.cautructhangmayhoalong.html">
-                                www.cautructhangmayhoalong.com
+                                www.cautruchoaan.com
                               </a>
                             </p>
                             <iframe
@@ -92,7 +92,7 @@ export default async function LienHe() {
                                         id="userForm"
                                         className="MinhThuanForm1"
                                         encType="multipart/form-data"
-                                        action="https://cautructhangmayhoalong.com/lien-he.html"
+                                        action="https://cautruchoaan.com/lien-he.html"
                                       >
                                         <h2>Liên hệ</h2>
                                         {/* Do not remove this ID, it is used to identify the page so that the pagination script can work correctly */}
